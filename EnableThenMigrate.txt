@@ -1,0 +1,4 @@
+This script is designed to work in a Hybrid deployment 
+It automate the process of creating multiple onPremise user mailbox and then migrate them online. 
+Create a txt file with UPN, complete the param values and run the script.
+Once you defined the param value, you will only need to change UPN in txt file for every time you want to use it
